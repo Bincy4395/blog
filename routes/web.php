@@ -16,3 +16,8 @@ Route::get('/', function () {
 });
 
 Route::get('/login', 'BlogController@login');
+
+Route::get('/login', 'BlogController@login');
+
+
+
